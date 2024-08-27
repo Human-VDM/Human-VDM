@@ -2,4 +2,4 @@
 Authors: Zhibin Liu, Haoye Dong, Aviral Chharia, Hefeng Wu <br />
 The official code of Human-VDM.
 
-![image](assets/first.png)
+![image](asset/first.png)
