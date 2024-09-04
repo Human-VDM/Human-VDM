@@ -3,12 +3,12 @@
 # Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models
 <div>
     <a href='https://ieeexplore.ieee.org/author/37089972264' target='_blank'>Zhibin Liu<sup>1</sup></a>&emsp;
-    <a href='https://www.haoyed.com/' target='_blank'>Haoye Dong<sup>2, 3</sup></a>&emsp;
-    <a href='https://aviralchharia.github.io/' target='_blank'>Aviral Chharia<sup>3</sup></a>&emsp;
+    <a href='https://www.haoyed.com/' target='_blank'>Haoye Dong<sup>2</sup></a>&emsp;
+    <a href='https://aviralchharia.github.io/' target='_blank'>Aviral Chharia<sup>2</sup></a>&emsp;
     <a href='https://www.sysu-hcp.net/faculty/wuhefeng.html' target='_blank'>Hefeng Wu<sup>1</sup></a>&emsp;</br>
 </div>
 <div>
-    <sup>1</sup>Sun Yat-sen University&emsp;<sup>2</sup>National University of Singapore&emsp;<sup>3</sup>Carnegie Mellon University
+    <sup>1</sup>Sun Yat-sen University&emsp;<sup>2</sup>Carnegie Mellon University
 </div>
 <div>
     <b>arXiv 2024</b>
