@@ -15,7 +15,7 @@
 </div>
 <br>
 
-  <a href="https://arxiv.org/"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-XXXX-00ff00.svg"></a>
+  <a href="https://arxiv.org/abs/2409.02851"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2409.02851-00ff00.svg"></a>
   <a href="https://human-vdm.github.io/Human-VDM/"><img alt="Webpage" src="https://img.shields.io/badge/Webpage-up-yellow"></a>
   [![GitHub Stars](https://img.shields.io/github/stars/Human-VDM/Human-VDM?style=social)](https://github.com/Human-VDM/Human-VDM)
 
