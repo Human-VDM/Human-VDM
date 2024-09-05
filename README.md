@@ -45,12 +45,12 @@ Generating lifelike 3D humans from a single RGB image remains a challenging task
 ## :bookmark_tabs: Citation
 If you find our work useful for your project, please consider adding a star to this repo and citing the paper:
 ```bibtex
-    @misc={liu2024humanvdm,
+@misc{liu2024humanvdmlearningsingleimage3d,
       title={Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models}, 
       author={Zhibin Liu and Haoye Dong and Aviral Chharia and Hefeng Wu},
       year={2024},
-      eprint={},
+      eprint={2409.02851},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/},
-  }
+      url={https://arxiv.org/abs/2409.02851}, 
+}
