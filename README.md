@@ -2,13 +2,16 @@
 
 # Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models
 <div>
-    <a href='https://ieeexplore.ieee.org/author/37089972264' target='_blank'>Zhibin Liu<sup>1</sup></a>&emsp;
-    <a href='https://www.haoyed.com/' target='_blank'>Haoye Dong<sup>2</sup></a>&emsp;
-    <a href='https://aviralchharia.github.io/' target='_blank'>Aviral Chharia<sup>2</sup></a>&emsp;
-    <a href='https://www.sysu-hcp.net/faculty/wuhefeng.html' target='_blank'>Hefeng Wu<sup>1</sup></a>&emsp;</br>
+    <a href='https://ieeexplore.ieee.org/author/37089972264' target='_blank'>Zhibin Liu</a><sup> 1</sup></a>&emsp;
+    <a href='https://www.sysu-hcp.net/faculty/wuhefeng.html' target='_blank'>Hefeng Wu</a><sup> 1</sup></a>&emsp;
+    <a href='https://aviralchharia.github.io/' target='_blank'>Aviral Chharia</a><sup> 2</sup>&emsp;
+    <a href='https://yanyan-li.github.io/about_me/' target='_blank'>Yanyan Li</a><sup> 3</sup>&emsp;</br>
+    <a href='https://www.comp.nus.edu.sg/~leegh/index.html' target='_blank'>Gim Hee Lee</a><sup> 3</sup>&emsp;
+    <a href='https://www.haoyed.com/' target='_blank'>Haoye Dong</a><sup> 2, 3†</sup>&emsp;</br>
 </div>
 <div>
-    <sup>1</sup>Sun Yat-sen University&emsp;<sup>2</sup>Carnegie Mellon University
+    <sup>1</sup>Sun Yat-sen University&emsp;<sup>2</sup>Carnegie Mellon University&emsp;<br>
+    <sup>3</sup>National University of Singapore
 </div>
 <div>
     <b>arXiv 2024</b>
